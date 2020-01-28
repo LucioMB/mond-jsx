@@ -1,0 +1,25 @@
+.s5-section-1 {
+    background-image: url(../../public/sfondo-b.png);
+    background-size: 800px;
+    padding-right: 10px;
+}
+
+.s5-div-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #fff;
+}
+
+.s5-img-1 {
+    width: 1200px;
+    height: auto;
+    padding: 100px 0 100px 0;
+    
+}
+
+.s5-h2 {
+    text-align: center;
+    color: #fff;
+    padding: 300px 0 40px 0;
+}
